@@ -1,6 +1,6 @@
 Videos
 
-- Neural Networks Perceptron in Python
+- Redes Neurais Artificiais Perceptron em Python - Vídeo 17
 
     - source: https://github.com/armitage256/Python/tree/master/Video-17
 
